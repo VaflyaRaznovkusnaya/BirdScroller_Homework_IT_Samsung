@@ -1,0 +1,9 @@
+ru/samsung/itschool/mdev/funnybirds/BuildConfig.java
+ ru.samsung.itschool.mdev.funnybirds.BuildConfig
+ru/samsung/itschool/mdev/funnybirds/Sprite.java
+ ru.samsung.itschool.mdev.funnybirds.Sprite
+ru/samsung/itschool/mdev/funnybirds/GameView.java
+ ru.samsung.itschool.mdev.funnybirds.GameView
+ ru.samsung.itschool.mdev.funnybirds.GameView$Timer
+ru/samsung/itschool/mdev/funnybirds/MainActivity.java
+ ru.samsung.itschool.mdev.funnybirds.MainActivity
